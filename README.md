@@ -1,24 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple todo application with tasks
 
-Things you may want to cover:
+application configuration 
 
-* Ruby version
+* Ruby version ruby 2.6.1p33
 
-* System dependencies
+* Rails version 5.2.2
 
-* Configuration
+* Postgresql database
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
